@@ -57,7 +57,6 @@ function createImageSection(mappings, container) {
     });
 }
 
-
 function createMenu(config) {
     for (const menuKey in config) {
         if (config.hasOwnProperty(menuKey)) {
@@ -77,6 +76,7 @@ function createMenu(config) {
         }
     }
 }
+
 function populateMenuBar(config) {
     let isFirstItem = true;
 
@@ -152,7 +152,6 @@ function showFlyoutMenu(event, links) {
         }
     }, { capture: true });
 }
-
 
 // Function to update the selected menu indicator
 function updateSelectedMenu(selectedMenu) {

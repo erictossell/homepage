@@ -38,7 +38,7 @@
 		}
 	},
 	"HomeLab": {
-		"http://nixbox:3000": {
+		"https://git.toss": {
 			"imgSrc": "imgs/gitea.png",
 			"links": []
 		},
@@ -50,7 +50,7 @@
 			"imgSrc": "imgs/excalidraw.png",
 			"links": []
 		},
-		"https://nixbox:8443": {
+		"https://budget.toss": {
 			"imgSrc": "imgs/actual.png",
 			"links": []
 		},
@@ -94,6 +94,10 @@
 		},
 		"https://crates.io/": {
 			"imgSrc": "imgs/crates.png",
+			"links": []
+		},
+		"https://recipe.toss": {
+			"imgSrc": "imgs/tandoor.jpg",
 			"links": []
 		}
 	}
