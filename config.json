@@ -35,6 +35,10 @@
 		"https://reddit.com": {
 			"imgSrc": "imgs/reddit.png",
 			"links": []
+		},
+		"https://read.amazon.com/kindle-library": {
+			"imgSrc": "imgs/kindle.png",
+			"links": []
 		}
 	},
 	"HomeLab": {
