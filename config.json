@@ -42,7 +42,7 @@
 		}
 	},
 	"HomeLab": {
-		"https://git.toss": {
+		"https://git.eriim.ca": {
 			"imgSrc": "imgs/gitea.png",
 			"links": []
 		},
@@ -54,7 +54,7 @@
 			"imgSrc": "imgs/excalidraw.png",
 			"links": []
 		},
-		"https://budget.toss": {
+		"https://budget.eriim.ca": {
 			"imgSrc": "imgs/actual.png",
 			"links": []
 		},
