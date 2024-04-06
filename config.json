@@ -39,6 +39,14 @@
 		"https://read.amazon.com/kindle-library": {
 			"imgSrc": "imgs/kindle.png",
 			"links": []
+		},
+		"https://academy.hackthebox.com": {
+			"imgSrc": "imgs/htb.png",
+			"links": []
+		},
+		"https://hackthebox.com": {
+			"imgSrc": "imgs/htb.png",
+			"links": []
 		}
 	},
 	"HomeLab": {
