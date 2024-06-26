@@ -4,8 +4,8 @@
 			"imgSrc": "imgs/github.png",
 			"links": []
 		},
-		"https://app.todoist.com/app/today": {
-			"imgSrc": "imgs/todoist.png",
+		"https://ticktick.com/webapp/#q/week/tasks": {
+			"imgSrc": "imgs/ticktick.jpg",
 			"links": []
 		},
 		"https://app.excalidraw.com/": {
@@ -43,17 +43,9 @@
 		"https://academy.hackthebox.com": {
 			"imgSrc": "imgs/htb.png",
 			"links": []
-		},
-		"https://hackthebox.com": {
-			"imgSrc": "imgs/htb.png",
-			"links": []
 		}
 	},
 	"HomeLab": {
-		"https://git.eriim.ca": {
-			"imgSrc": "imgs/gitea.png",
-			"links": []
-		},
 		"https://hub.docker.com/": {
 			"imgSrc": "imgs/docker.png",
 			"links": []
@@ -92,10 +84,6 @@
 		}
 	},
 	"Documentation": {
-		"https://docs.eriim.dev": {
-			"imgSrc": "imgs/eriim-docs.png",
-			"links": []
-		},
 		"https://nix.dev": {
 			"imgSrc": "imgs/nix-discourse.png",
 			"links": []
@@ -110,10 +98,6 @@
 		},
 		"https://crates.io/": {
 			"imgSrc": "imgs/crates.png",
-			"links": []
-		},
-		"https://recipe.toss": {
-			"imgSrc": "imgs/tandoor.jpg",
 			"links": []
 		}
 	}
