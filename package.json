@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"scripts": {
 		"start": "sirv ./ public --cors --single --no-clear --port 8000",
-		"build": "cp -a src dist"
+		"build": "cp -a ./ src"
 	},
 	"devDependencies": {
 		"tailwindcss": "^3.4.1"
