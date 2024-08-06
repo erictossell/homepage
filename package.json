@@ -1,5 +1,10 @@
 {
-  "devDependencies": {
-    "tailwindcss": "^3.4.1"
-  }
+	"name": "homepage",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "sirv ./ public --cors --single --no-clear --port 8000"
+	},
+	"devDependencies": {
+		"tailwindcss": "^3.4.1"
+	}
 }
