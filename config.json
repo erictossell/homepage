@@ -40,22 +40,26 @@
 			"imgSrc": "imgs/kindle.png",
 			"links": []
 		},
-		"https://academy.hackthebox.com": {
-			"imgSrc": "imgs/htb.png",
+		"https://portal.azure.com": {
+			"imgSrc": "imgs/azure.jpg",
 			"links": []
-		}
+		}		
 	},
 	"HomeLab": {
 		"https://hub.docker.com/": {
 			"imgSrc": "imgs/docker.png",
 			"links": []
 		},
+		"https://portal.azure.com": {
+			"imgSrc": "imgs/azure.jpg",
+			"links": []
+		},
 		"https://app.excalidraw.com/s/3KdES2ZvSQP/AmSL5PtRKnY": {
 			"imgSrc": "imgs/excalidraw.png",
 			"links": []
 		},
-		"https://budget.eriim.ca": {
-			"imgSrc": "imgs/actual.png",
+		"http://nixbox": {
+			"imgSrc": "imgs/firefly.png",
 			"links": []
 		},
 		"http://192.168.2.4:81": {
