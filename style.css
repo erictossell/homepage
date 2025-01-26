@@ -32,11 +32,6 @@
 
 .menu-item {
 	position: relative;
-	width: 100px;
-	/* Size of the hexagon */
-	height: 58px;
-	margin: 17px 8px;
-	/* Adjust for spacing */
 	background-color: #4A5568;
 	display: flex;
 	justify-content: center;
