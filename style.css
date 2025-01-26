@@ -26,38 +26,36 @@
 
 /* Honeycomb Layout Styles */
 .menu-bar {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
 }
 
 .menu-item {
-  position: relative;
-  width: 100px; /* Size of the hexagon */
-  height: 58px;
-  margin: 17px 8px; /* Adjust for spacing */
-  background-color: #4A5568;
-  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: bold;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+	position: relative;
+	width: 100px;
+	/* Size of the hexagon */
+	height: 58px;
+	margin: 17px 8px;
+	/* Adjust for spacing */
+	background-color: #4A5568;
+	clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
 }
 
 .menu-item:hover {
-  background-color: #2D3748;
+	background-color: #2D3748;
 }
 
-/* Adjusting the position to form a honeycomb pattern */
-.menu-bar > div:nth-child(odd) {
-  margin-top: 29px; /* Adjust this value to align the rows properly */
-}
 
 /* Highlight the selected menu */
 .selected-menu {
-  background-color: #2C5282;
+	background-color: #2C5282;
 }

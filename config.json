@@ -4,8 +4,8 @@
 			"imgSrc": "imgs/github.png",
 			"links": []
 		},
-		"https://ticktick.com/webapp/#q/week/tasks": {
-			"imgSrc": "imgs/ticktick.jpg",
+		"https://todo.et0.ca": {
+			"imgSrc": "imgs/vikjuna.jpg",
 			"links": []
 		},
 		"https://app.excalidraw.com/": {
@@ -20,10 +20,6 @@
 			"imgSrc": "imgs/nixos.png",
 			"links": []
 		},
-		"https://chat.openai.com/": {
-			"imgSrc": "imgs/chatgpt.png",
-			"links": []
-		},
 		"https://youtube.com": {
 			"imgSrc": "imgs/youtube.png",
 			"links": []
@@ -32,18 +28,10 @@
 			"imgSrc": "imgs/discord.png",
 			"links": []
 		},
-		"https://reddit.com": {
-			"imgSrc": "imgs/reddit.png",
-			"links": []
-		},
 		"https://read.amazon.com/kindle-library": {
 			"imgSrc": "imgs/kindle.png",
 			"links": []
-		},
-		"https://portal.azure.com": {
-			"imgSrc": "imgs/azure.jpg",
-			"links": []
-		}		
+		}
 	},
 	"HomeLab": {
 		"https://hub.docker.com/": {
@@ -62,10 +50,6 @@
 			"imgSrc": "imgs/firefly.png",
 			"links": []
 		},
-		"http://192.168.2.4:81": {
-			"imgSrc": "imgs/nginx.png",
-			"links": []
-		},
 		"http://192.168.2.2/admin": {
 			"imgSrc": "imgs/pihole.svg",
 			"links": []
@@ -74,12 +58,12 @@
 			"imgSrc": "imgs/tailscale.png",
 			"links": []
 		},
-		"https://aws.amazon.com/": {
-			"imgSrc": "imgs/aws.png",
-			"links": []
-		},
 		"https://railway.app/": {
 			"imgSrc": "imgs/railway.png",
+			"links": []
+		},
+		"https://digitalocean.com":{
+			"imgSrc": "imgs/digitalocean.png",
 			"links": []
 		},
 		"https://secure.backblaze.com/b2_buckets.htm": {
