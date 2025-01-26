@@ -675,14 +675,13 @@ video {
 	color: #333;
 }
 
-/* Honeycomb Layout for Image Grid */
+
 #image-grid {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
 	gap: 10px;
-	/* Adjust spacing between hexagons */
 }
 
 .site-card {
@@ -709,10 +708,4 @@ video {
 
 .site-card:hover {
 	background-color: #4A5568;
-}
-
-/* Adjusting the position to form a honeycomb pattern */
-#image-grid>div:nth-child(odd) {
-	margin-top: 43.3px;
-	/* Adjust this value to align the rows properly */
 }
