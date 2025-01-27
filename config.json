@@ -4,6 +4,10 @@
 			"imgSrc": "imgs/vikjuna.jpg",
 			"links": []
 		},
+		"https://chess.com":{
+			"imgSrc": "imgs/chesscom_logo_pawn.png",
+			"links": []
+		},
 		"https://app.excalidraw.com/": {
 			"imgSrc": "imgs/excalidraw.png",
 			"links": []
