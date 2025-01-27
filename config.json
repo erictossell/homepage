@@ -1,9 +1,5 @@
 {
 	"Personal": {
-		"https://github.com": {
-			"imgSrc": "imgs/github.png",
-			"links": []
-		},
 		"https://todo.et0.ca": {
 			"imgSrc": "imgs/vikjuna.jpg",
 			"links": []
@@ -20,16 +16,12 @@
 			"imgSrc": "imgs/nixos.png",
 			"links": []
 		},
-		"https://youtube.com": {
-			"imgSrc": "imgs/youtube.png",
-			"links": []
-		},
 		"https://discord.com/app": {
 			"imgSrc": "imgs/discord.png",
 			"links": []
 		},
-		"https://read.amazon.com/kindle-library": {
-			"imgSrc": "imgs/kindle.png",
+		"https://books.et0.ca": {
+			"imgSrc": "imgs/calibreweb.png",
 			"links": []
 		}
 	},
